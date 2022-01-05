@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoMVP</string>
+    <string name="write_a_task">Write a task</string>
+</resources>
